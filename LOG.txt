@@ -1,0 +1,8 @@
+6/30/2025
+Created the siderbar and app organization in Layout.tsx
+Created each page and its respective /components folder
+- Dashboard.tsx
+- Projects.tsx
+- Inventory.tsx
+- Estimates.tsx
+- Settings.tsx
